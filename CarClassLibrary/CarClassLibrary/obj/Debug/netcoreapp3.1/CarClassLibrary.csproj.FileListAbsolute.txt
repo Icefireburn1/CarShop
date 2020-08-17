@@ -1,0 +1,9 @@
+C:\Users\Justin\source\repos\CarClassLibrary\CarClassLibrary\obj\Debug\netcoreapp3.1\CarClassLibrary.csprojAssemblyReference.cache
+C:\Users\Justin\source\repos\CarClassLibrary\CarClassLibrary\obj\Debug\netcoreapp3.1\CarClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Justin\source\repos\CarClassLibrary\CarClassLibrary\obj\Debug\netcoreapp3.1\CarClassLibrary.AssemblyInfo.cs
+C:\Users\Justin\source\repos\CarClassLibrary\CarClassLibrary\obj\Debug\netcoreapp3.1\CarClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Justin\source\repos\CarClassLibrary\CarClassLibrary\bin\Debug\netcoreapp3.1\CarClassLibrary.deps.json
+C:\Users\Justin\source\repos\CarClassLibrary\CarClassLibrary\bin\Debug\netcoreapp3.1\CarClassLibrary.dll
+C:\Users\Justin\source\repos\CarClassLibrary\CarClassLibrary\bin\Debug\netcoreapp3.1\CarClassLibrary.pdb
+C:\Users\Justin\source\repos\CarClassLibrary\CarClassLibrary\obj\Debug\netcoreapp3.1\CarClassLibrary.dll
+C:\Users\Justin\source\repos\CarClassLibrary\CarClassLibrary\obj\Debug\netcoreapp3.1\CarClassLibrary.pdb
